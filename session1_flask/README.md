@@ -1,5 +1,6 @@
-# Tech Session - Introduction to Flask
+# Tech Session 1 - Introduction to Flask
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
 ## What is Flask?
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies, and several common framework related tools.
 
@@ -24,4 +25,5 @@ pip install -r requirements.txt
 ```
 
 ## Contents
-- **Part 1**: Introduction to Flask and setting up a basic Flask application
+- [**Part 1**: Introduction to Flask and setting up a basic Flask application](part1/part1.md)
+- **Part 2**: Introduction to RESTful APIs and creating a simple RESTful API using Flask

@@ -20,9 +20,9 @@ A web application is a software application that runs on a web server and consis
     - CSS frameworks like Tailwind CSS
     - JavaScript frameworks like Node.js, Next.js
 2. **Backend**:
-    - WSGI vs ASGI
+    - WSGI and ASGI
     - Django
-    - Flask
+    - [Flask](session1_flask/README.md)
     - Express.js
 3. **Database**:
     - MySQL
@@ -30,7 +30,7 @@ A web application is a software application that runs on a web server and consis
     - MongoDB
     - Redis
 4. **API**:
-    - RESTful API
+    - [RESTful APIs](session2_restful_api/README.md)
     - GraphQL
 5. **Containerization**:
     - Docker
@@ -44,6 +44,13 @@ A web application is a software application that runs on a web server and consis
 9. **Reverse Proxy**:
     - Nginx
     - Apache2
+10. **Additional**:
+    - [Networking](networking_session/README.md)
+    - Server administration (UFW, SSH, etc.)
+
+## Additional sessions
+- [**Networking**: Short introduction to networking concepts like IP addresses, networks and ports.](networking_session/README.md)
 
 ## Tech sessions
-- None yet
+- [**Session 1**: Introduction to Flask](session1_flask/README.md)
+- [**Session 2**: Introduction to RESTful APIs](session2_restful_api/README.md)
