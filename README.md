@@ -19,16 +19,19 @@ A web application is a software application that runs on a web server and consis
     - Pure HTML, CSS, and JavaScript
     - CSS frameworks like Tailwind CSS
     - JavaScript frameworks like Node.js, Next.js
+    - Svelte and Sveltekit
 2. **Backend**:
     - WSGI and ASGI
     - Django
     - [Flask](session1_flask/README.md)
     - Express.js
+    - Rust tokio tcpsocket
 3. **Database**:
     - MySQL
     - PostgreSQL
     - MongoDB
     - Redis
+    - Supabase
 4. **API**:
     - [RESTful APIs](session2_restful_api/README.md)
     - GraphQL
@@ -47,6 +50,7 @@ A web application is a software application that runs on a web server and consis
 10. **Additional**:
     - [Networking](networking_session/README.md)
     - Server administration (UFW, SSH, etc.)
+    - Peer-to-peer networking
 
 ## Additional sessions
 - [**Networking**: Short introduction to networking concepts like IP addresses, networks and ports.](networking_session/README.md)
